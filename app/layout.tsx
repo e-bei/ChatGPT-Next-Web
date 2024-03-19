@@ -10,7 +10,7 @@ import { GoogleTagManager } from "@next/third-parties/google";
 const serverConfig = getServerSideConfig();
 
 export const metadata: Metadata = {
-  title: "小助手WorkBot",
+  title: "精益通AI工具库",
   description: "由精益通团队构建的GPT聊天机器人.",
   viewport: {
     width: "device-width",
